@@ -10,7 +10,7 @@ Compile
 
 1. Create Java SWT project.
 2. Import the package into the project.
-3. Create update-config.xml into your server with below Formate.
+3. Create update-config.xml into your server with below Format.
  
         <?xml version="1.0" encoding="UTF-8"?>
         <version>
